@@ -1,0 +1,1 @@
+﻿Retrieval-Augmented Generation (RAG) is a technique that grounds model responses in external data. FAISS is a library for fast vector similarity search. LangChain provides tools for building RAG applications.
