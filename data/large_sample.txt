@@ -1,0 +1,5 @@
+﻿RAG (Retrieval-Augmented Generation) is an AI architecture that enhances LLMs by retrieving relevant context from a knowledge base.
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors.
+LangChain is a framework designed to simplify the creation of LLM applications by providing modular abstractions.
+Message history allows a chatbot to remember past context in a conversation, which is essential for follow-up questions.
+The session_id in RunnableWithMessageHistory allows the chatbot to store and retrieve specific conversation histories.
